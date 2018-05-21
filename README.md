@@ -19,3 +19,7 @@ https://www.dfrobot.com/wiki/index.php/DFPlayer_Mini_SKU:DFR0299
  * Arduino.h
  * SoftwareSerial.h
  * DFRobotDFPlayerMini.h
+
+### Watch it on Youtube
+
+[![See that on Youtube](http://img.youtube.com/vi/ouj7k_KWKTE/0.jpg)](https://www.youtube.com/watch?v=ouj7k_KWKTE)
